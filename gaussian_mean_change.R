@@ -170,7 +170,7 @@ simulate_one_delta <- function(delta, opts) {
 
 defaults <- list(
   A = 1000,
-  reps = 50L,
+  reps = 4000L,
   change_time = 500L,
   max_time = 2500L,
   sigma = 1,
